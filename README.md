@@ -1,5 +1,5 @@
 ### Hi there, I'm [Mordecai](https://itsmordecai.github.io) 👋
-
+<!--
 <a href="https://twitter.com/itsmordecai_">
   <img align="left" alt="Mordecai Kipng'etich | Twitter" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/twitter.svg" />
 </a>
@@ -9,9 +9,9 @@
 <a href="https://linkedin.com/in/itsmordecai">
   <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/linkedin.svg" />
 </a>
-
 <br />
 <br />
+-->
 
 - 🌱 I’m currently learning Flutter
 - 📫 You can reach me at mordecai.kipngetich@gmail.com
