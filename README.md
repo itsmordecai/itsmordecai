@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning Flutter
 - 📫 You can reach me at mordecai.kipngetich@gmail.com or through the social platforms linked above
-- ⚡ Find my blog on anything cars or motorsport at [Drive Talks](drivetalks.car.blog)
+- ⚡ Find my blog on anything cars or motorsport at [Drive Talks](https://drivetalks.car.blog)
 - 💬 Coming soon: Update to my Portfolio
 
 <!--
