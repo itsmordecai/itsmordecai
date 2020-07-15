@@ -7,11 +7,10 @@
   <img align="left" alt="Mordecai Kipng'etich | Instagram" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/instagram.svg" />
 </a>
 <a href="https://linkedin.com/in/itsmordecai">
-  <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="18px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/linkedin.svg" />
+  <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="19px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/linkedin.svg" />
 </a>
 <br />
 <br />
-
 
 - 🌱 I’m currently learning Flutter
 - 📫 You can reach me at mordecai.kipngetich@gmail.com
