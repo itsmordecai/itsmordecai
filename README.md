@@ -1,14 +1,15 @@
 ### Hi there, I'm [Mordecai](https://itsmordecai.github.io) 👋
 
+<a href="https://linkedin.com/in/itsmordecai">
+  <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/linkedin.svg" />
+</a>
 <a href="https://twitter.com/itsmordecai_">
   <img align="left" alt="Mordecai Kipng'etich | Twitter" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/twitter.svg" />
 </a>
 <a href="https://instagram.com/itsmordecai_">
   <img align="left" alt="Mordecai Kipng'etich | Instagram" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/instagram.svg" />
 </a>
-<a href="https://linkedin.com/in/itsmordecai">
-  <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="19px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/linkedin.svg" />
-</a>
+
 <br />
 <br />
 
