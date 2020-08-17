@@ -1,4 +1,4 @@
-<img align="right" src="./assets/images/going-offline.svg" height="200px">
+<img align="right" src="./assets/images/going-offline.svg">
 
 ## Hi there, I'm [Mordecai](https://itsmordecai.github.io) 👋
 
