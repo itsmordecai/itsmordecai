@@ -1,6 +1,6 @@
-<img align="right" src="./assets/images/going-offline.svg">
+<img align="right" src="./assets/images/going-offline.svg" height="200px">
 
-## Hi there, I'm [Mordecai](https://itsmordecai.github.io) 👋
+### Hi there, I'm [Mordecai](https://itsmordecai.github.io) 👋
 
 <a href="https://linkedin.com/in/itsmordecai">
   <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/linkedin.svg" />
