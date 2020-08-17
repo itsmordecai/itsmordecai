@@ -1,17 +1,19 @@
-### Hi there, I'm [Mordecai](https://itsmordecai.github.io) 👋
+<img align="right" src="./assets/images/going-offline.svg" height="200px">
+
+## Hi there, I'm [Mordecai](https://itsmordecai.github.io) 👋
 
 <a href="https://linkedin.com/in/itsmordecai">
-  <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/linkedin.svg" />
+  <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/itsmordecai_">
-  <img align="left" alt="Mordecai Kipng'etich | Twitter" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/twitter.svg" />
+  <img align="left" alt="Mordecai Kipng'etich | Twitter" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/twitter.svg" />
 </a>
 <a href="https://instagram.com/itsmordecai_">
-  <img align="left" alt="Mordecai Kipng'etich | Instagram" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/instagram.svg" />
+  <img align="left" alt="Mordecai Kipng'etich | Instagram" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/instagram.svg" />
 </a>
 
-<br />
-<br />
+<br/>
+<br/>
 
 - 🌱 I’m currently learning Flutter
 - 💬 Coming soon: Update to my Portfolio
