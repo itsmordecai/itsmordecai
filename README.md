@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/images/seat-in-mobile.svg" height="300px" width="250px">
+<img align="right" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/images/seat-in-mobile.svg" height="500px" width="400px">
 
 ### Hi there, I'm [Mordecai](https://itsmordecai.github.io) 👋
 
