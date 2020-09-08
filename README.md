@@ -19,7 +19,7 @@
 - 💬 Coming soon: Update to my Portfolio
 - 🤔 Want to know how to have a profile README? Have a look at [this](https://medium.com/@itsmordecai_/how-to-create-a-github-profile-readme-bea13e7ffcd2) article I wrote
 - ⚡ Find my blog on anything cars or motorsport at [Drive Talks](https://drivetalks.car.blog)
-- 📫 You can reach me at mordecai.kipngetich@gmail.com or through the social platforms linked above
+- 📫 You can reach me via [Email](mordecai.kipngetich@gmail.com) or through the social platforms linked above
 
 <!--
 - 🔭 I’m currently working on ...
