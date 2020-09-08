@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/images/seat-in-mobile.svg" height="450px" width="400px">
 
-### Hi there, I'm Mordecai👋
+## Howdy there, I'm Mordecai👋
 
 <a href="https://linkedin.com/in/itsmordecai">
   <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/linkedin.svg" />
@@ -16,10 +16,9 @@
 <br/>
 
 - 🌱 I’m currently learning Flutter
-- 💬 Coming soon: Update to my Portfolio
-- 🤔 Want to know how to have a profile README? Have a look at [this](https://medium.com/@itsmordecai_/how-to-create-a-github-profile-readme-bea13e7ffcd2) article I wrote
+- 💬 Coming soon: Update to my Portfolio (possibly with use of Flutter Web)
 - ⚡ Find my blog on anything cars or motorsport at [Drive Talks](https://drivetalks.car.blog)
-- 📫 You can reach me via [Email](mordecai.kipngetich@gmail.com) or through the social platforms linked above
+- 📫 You can reach me via [email](mordecai.kipngetich@gmail.com) or through the social platforms linked above
 
 <!--
 - 🔭 I’m currently working on ...
