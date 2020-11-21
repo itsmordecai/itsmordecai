@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/images/seat-in-mobile.svg" height="450px" width="400px">
 
-## Howdy there, I'm Mordecai 👋
+## Howdy there, it's That Noisemaker 👋😂
 
 <a href="https://linkedin.com/in/itsmordecai">
   <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/linkedin.svg" />
