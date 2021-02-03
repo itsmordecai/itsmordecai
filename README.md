@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/images/seat-in-mobile.svg" height="450px" width="400px">
 
-## Howdy there, it's That Noisemaker 👋😂
+## Yellow there 👋😂
 
 <a href="https://linkedin.com/in/itsmordecai">
   <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/linkedin.svg" />
@@ -16,7 +16,7 @@
 <br/>
 
 - 🌱 I’m currently learning Flutter
-- 💬 Coming soon: Update to my Portfolio
+- 💬 Coming soon: Update to my portfolio
 - ⚡ Find my blog on anything cars or motorsport at [Drive Talks](https://drivetalks.car.blog)
 - 📫 You can reach me via [email](mailto:mordecai.kipngetich@gmail.com) or social media
 - 😄 Pronouns: he / him
