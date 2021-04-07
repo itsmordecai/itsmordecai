@@ -6,10 +6,10 @@
   <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" height="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/itsmordecai_">
-  <img align="left" alt="Mordecai Kipng'etich | Twitter" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/twitter.svg" />
+  <img align="left" alt="Mordecai Kipng'etich | Twitter" width="21px" height="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/twitter.svg" />
 </a>
 <a href="https://instagram.com/itsmordecai_">
-  <img align="left" alt="Mordecai Kipng'etich | Instagram" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/instagram.svg" />
+  <img align="left" alt="Mordecai Kipng'etich | Instagram" width="21px" height="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/instagram.svg" />
 </a>
 
 <br/>
