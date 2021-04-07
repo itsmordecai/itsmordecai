@@ -3,7 +3,7 @@
 ## Yellow there 👋😂
 
 <a href="https://linkedin.com/in/itsmordecai">
-  <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/linkedin.svg" />
+  <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" height="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/itsmordecai_">
   <img align="left" alt="Mordecai Kipng'etich | Twitter" width="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/twitter.svg" />
