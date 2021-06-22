@@ -15,14 +15,14 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on my school project
 - 💬 Coming soon: Update to my portfolio
-- ⚡ Find my blog on anything cars / motorsport at [Drive Talks](https://drivetalks.car.blog)
 - 📫 You can reach me via [email](mailto:mordecai.kipngetich@gmail.com) or social media
 - 😄 Pronouns: he / him
 
 <!--
-- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Flutter
+- ⚡ Find my blog on anything cars / motorsport at [Drive Talks](https://drivetalks.car.blog)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
