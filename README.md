@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/images/seat-in-mobile.svg" height="450px" width="400px">
+<img align="right" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/images/seat-in-mobile.svg" height="350px" width="300px">
 
 ## Yellow there 👋😂
 
